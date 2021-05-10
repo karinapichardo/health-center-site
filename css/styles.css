@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+.cls-1 {
+    fill: #a5c422
+}
+
+.cls-2 {
+    fill: #a5c422
+}
+
+svg {
+    width: 20px;
+    fill: #a5c422;
+}
+
+.green-letter {
+    background-color: #a5c422;
+    color: white;
+}
+
+
+.author-doc {
+    width: 100px;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+img {
+    max-width: 100%;
+}
